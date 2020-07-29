@@ -25,3 +25,21 @@ form{
     margin-top: 12px;
     border-radius: 25px;
 }
+div {
+    font-family: 'Mulish', sans-serif;
+    font-size: 1.5em;
+    background-color: #e63946;
+    text-align: center;
+    border: 5px solid #a8dadc;
+    border-top: 0px;
+    height: 80px;
+    
+
+}
+.nav-link{
+    margin-bottom: 35px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #f1faee;
+
+}
