@@ -1,3 +1,27 @@
 body{
     font-family: 'Mulish', sans-serif;
+    background-color: #1d3557 ;
+    color: #f1faee;
+    text-align: center;
+    border: 40px solid #a8dadc;
+    border-top: 0px;
+    margin: 0px;
+}
+p{
+    padding-top: 5%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+form{
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+#sub{
+    font-size: 0.8em;
+    color: #f1faee;
+    background-color: #e63946;
+    height: 80px;
+    width: 150px;
+    margin-top: 12px;
+    border-radius: 25px;
 }
